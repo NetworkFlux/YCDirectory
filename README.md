@@ -18,6 +18,8 @@
 A Full Stack Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other
 pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
 
+This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissions, Unstable After for background tasks, Server Component HMR Cache for faster development, and Partial Prerendering for performance optimization.
+
 Visit the app by going here: https://yc-directory-two-beta.vercel.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>

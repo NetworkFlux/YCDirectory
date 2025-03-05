@@ -4,6 +4,7 @@
       <img src="https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99" alt="Project Banner">
     </a>
   <br />
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -16,6 +17,8 @@
 
 A Full Stack Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other
 pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
+
+Visit the app by going here: https://yc-directory-two-beta.vercel.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
